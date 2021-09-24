@@ -1,1 +1,0 @@
-# polkadot-book-for-beginners
